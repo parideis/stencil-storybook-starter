@@ -1,0 +1,9 @@
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
